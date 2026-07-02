@@ -1,8 +1,8 @@
 ---
-title: Mode d'emploi pour votre mini-site
+title: "Mode d'emploi pour votre mini-site"
 order: 0
+in_menu: true
 ---
-
 # Comment on le crée ce mini-site ?
 
 ## 1° Créer son mini-site
